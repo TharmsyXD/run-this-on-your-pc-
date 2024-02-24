@@ -1,0 +1,5 @@
+PySocks
+scapy
+requests
+cloudscraper
+icmplib
